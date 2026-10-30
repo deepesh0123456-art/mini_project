@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+transformers
+numpy
+pandas
+pillow
+opencv-python-headless
+librosa
+soundfile
+scikit-learn
+matplotlib
